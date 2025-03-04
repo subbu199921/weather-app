@@ -1,0 +1,13 @@
+body {
+         background-image: url('your_background_image.jpg');
+         background-size: cover;
+         background-repeat: no-repeat;
+         background-position: center;
+         height: 100vh;
+         margin: 0;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         color: white;
+         font-family: Arial, sans-serif;
+     }
